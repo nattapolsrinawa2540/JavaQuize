@@ -26,5 +26,6 @@ public class Lab13 {
 			}
 		}
 		System.out.println("ผลรวมอาเรย์ตัวสุดท้ายแต่ละแถว : " + total);
+		
 	}
 }
